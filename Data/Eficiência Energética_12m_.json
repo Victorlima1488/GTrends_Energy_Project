@@ -1,0 +1,608 @@
+{
+    "search_metadata": {
+        "id": "668e884e3a218ab564598eba",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5df5cec4528d5917/668e884e3a218ab564598eba.json",
+        "created_at": "2024-07-10 13:10:38 UTC",
+        "processed_at": "2024-07-10 13:10:38 UTC",
+        "google_trends_url": "https://trends.google.com/trends/api/explore?tz=180&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Efici%C3%AAncia+Energ%C3%A9tica%22%2C%22geo%22%3A%22BR%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%2C%22userConfig%22%3A%22%7BuserType%3A+%5C%22USER_TYPE_LEGIT_USER%5C%22%7D%22%7D",
+        "raw_html_file": "https://serpapi.com/searches/5df5cec4528d5917/668e884e3a218ab564598eba.html",
+        "prettify_html_file": "https://serpapi.com/searches/5df5cec4528d5917/668e884e3a218ab564598eba.prettify",
+        "total_time_taken": 3.51
+    },
+    "search_parameters": {
+        "engine": "google_trends",
+        "q": "Efici\u00eancia Energ\u00e9tica",
+        "geo": "BR",
+        "date": "today 12-m",
+        "tz": "180",
+        "data_type": "TIMESERIES"
+    },
+    "interest_over_time": {
+        "timeline_data": [
+            {
+                "date": "Jul 9\u2009\u2013\u200915, 2023",
+                "timestamp": "1688860800",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Jul 16\u2009\u2013\u200922, 2023",
+                "timestamp": "1689465600",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "28",
+                        "extracted_value": 28
+                    }
+                ]
+            },
+            {
+                "date": "Jul 23\u2009\u2013\u200929, 2023",
+                "timestamp": "1690070400",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "20",
+                        "extracted_value": 20
+                    }
+                ]
+            },
+            {
+                "date": "Jul 30\u2009\u2013\u2009Aug 5, 2023",
+                "timestamp": "1690675200",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "50",
+                        "extracted_value": 50
+                    }
+                ]
+            },
+            {
+                "date": "Aug 6\u2009\u2013\u200912, 2023",
+                "timestamp": "1691280000",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "49",
+                        "extracted_value": 49
+                    }
+                ]
+            },
+            {
+                "date": "Aug 13\u2009\u2013\u200919, 2023",
+                "timestamp": "1691884800",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "54",
+                        "extracted_value": 54
+                    }
+                ]
+            },
+            {
+                "date": "Aug 20\u2009\u2013\u200926, 2023",
+                "timestamp": "1692489600",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "38",
+                        "extracted_value": 38
+                    }
+                ]
+            },
+            {
+                "date": "Aug 27\u2009\u2013\u2009Sep 2, 2023",
+                "timestamp": "1693094400",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "40",
+                        "extracted_value": 40
+                    }
+                ]
+            },
+            {
+                "date": "Sep 3\u2009\u2013\u20099, 2023",
+                "timestamp": "1693699200",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "42",
+                        "extracted_value": 42
+                    }
+                ]
+            },
+            {
+                "date": "Sep 10\u2009\u2013\u200916, 2023",
+                "timestamp": "1694304000",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "55",
+                        "extracted_value": 55
+                    }
+                ]
+            },
+            {
+                "date": "Sep 17\u2009\u2013\u200923, 2023",
+                "timestamp": "1694908800",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "59",
+                        "extracted_value": 59
+                    }
+                ]
+            },
+            {
+                "date": "Sep 24\u2009\u2013\u200930, 2023",
+                "timestamp": "1695513600",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "57",
+                        "extracted_value": 57
+                    }
+                ]
+            },
+            {
+                "date": "Oct 1\u2009\u2013\u20097, 2023",
+                "timestamp": "1696118400",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "51",
+                        "extracted_value": 51
+                    }
+                ]
+            },
+            {
+                "date": "Oct 8\u2009\u2013\u200914, 2023",
+                "timestamp": "1696723200",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "28",
+                        "extracted_value": 28
+                    }
+                ]
+            },
+            {
+                "date": "Oct 15\u2009\u2013\u200921, 2023",
+                "timestamp": "1697328000",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "41",
+                        "extracted_value": 41
+                    }
+                ]
+            },
+            {
+                "date": "Oct 22\u2009\u2013\u200928, 2023",
+                "timestamp": "1697932800",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "53",
+                        "extracted_value": 53
+                    }
+                ]
+            },
+            {
+                "date": "Oct 29\u2009\u2013\u2009Nov 4, 2023",
+                "timestamp": "1698537600",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "38",
+                        "extracted_value": 38
+                    }
+                ]
+            },
+            {
+                "date": "Nov 5\u2009\u2013\u200911, 2023",
+                "timestamp": "1699142400",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "35",
+                        "extracted_value": 35
+                    }
+                ]
+            },
+            {
+                "date": "Nov 12\u2009\u2013\u200918, 2023",
+                "timestamp": "1699747200",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "51",
+                        "extracted_value": 51
+                    }
+                ]
+            },
+            {
+                "date": "Nov 19\u2009\u2013\u200925, 2023",
+                "timestamp": "1700352000",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "59",
+                        "extracted_value": 59
+                    }
+                ]
+            },
+            {
+                "date": "Nov 26\u2009\u2013\u2009Dec 2, 2023",
+                "timestamp": "1700956800",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "50",
+                        "extracted_value": 50
+                    }
+                ]
+            },
+            {
+                "date": "Dec 3\u2009\u2013\u20099, 2023",
+                "timestamp": "1701561600",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "33",
+                        "extracted_value": 33
+                    }
+                ]
+            },
+            {
+                "date": "Dec 10\u2009\u2013\u200916, 2023",
+                "timestamp": "1702166400",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "32",
+                        "extracted_value": 32
+                    }
+                ]
+            },
+            {
+                "date": "Dec 17\u2009\u2013\u200923, 2023",
+                "timestamp": "1702771200",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "41",
+                        "extracted_value": 41
+                    }
+                ]
+            },
+            {
+                "date": "Dec 24\u2009\u2013\u200930, 2023",
+                "timestamp": "1703376000",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "22",
+                        "extracted_value": 22
+                    }
+                ]
+            },
+            {
+                "date": "Dec 31, 2023\u2009\u2013\u2009Jan 6, 2024",
+                "timestamp": "1703980800",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "18",
+                        "extracted_value": 18
+                    }
+                ]
+            },
+            {
+                "date": "Jan 7\u2009\u2013\u200913, 2024",
+                "timestamp": "1704585600",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "22",
+                        "extracted_value": 22
+                    }
+                ]
+            },
+            {
+                "date": "Jan 14\u2009\u2013\u200920, 2024",
+                "timestamp": "1705190400",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Jan 21\u2009\u2013\u200927, 2024",
+                "timestamp": "1705795200",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "24",
+                        "extracted_value": 24
+                    }
+                ]
+            },
+            {
+                "date": "Jan 28\u2009\u2013\u2009Feb 3, 2024",
+                "timestamp": "1706400000",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "30",
+                        "extracted_value": 30
+                    }
+                ]
+            },
+            {
+                "date": "Feb 4\u2009\u2013\u200910, 2024",
+                "timestamp": "1707004800",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "22",
+                        "extracted_value": 22
+                    }
+                ]
+            },
+            {
+                "date": "Feb 11\u2009\u2013\u200917, 2024",
+                "timestamp": "1707609600",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "29",
+                        "extracted_value": 29
+                    }
+                ]
+            },
+            {
+                "date": "Feb 18\u2009\u2013\u200924, 2024",
+                "timestamp": "1708214400",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "32",
+                        "extracted_value": 32
+                    }
+                ]
+            },
+            {
+                "date": "Feb 25\u2009\u2013\u2009Mar 2, 2024",
+                "timestamp": "1708819200",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "46",
+                        "extracted_value": 46
+                    }
+                ]
+            },
+            {
+                "date": "Mar 3\u2009\u2013\u20099, 2024",
+                "timestamp": "1709424000",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "57",
+                        "extracted_value": 57
+                    }
+                ]
+            },
+            {
+                "date": "Mar 10\u2009\u2013\u200916, 2024",
+                "timestamp": "1710028800",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "43",
+                        "extracted_value": 43
+                    }
+                ]
+            },
+            {
+                "date": "Mar 17\u2009\u2013\u200923, 2024",
+                "timestamp": "1710633600",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "44",
+                        "extracted_value": 44
+                    }
+                ]
+            },
+            {
+                "date": "Mar 24\u2009\u2013\u200930, 2024",
+                "timestamp": "1711238400",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "46",
+                        "extracted_value": 46
+                    }
+                ]
+            },
+            {
+                "date": "Mar 31\u2009\u2013\u2009Apr 6, 2024",
+                "timestamp": "1711843200",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "57",
+                        "extracted_value": 57
+                    }
+                ]
+            },
+            {
+                "date": "Apr 7\u2009\u2013\u200913, 2024",
+                "timestamp": "1712448000",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "48",
+                        "extracted_value": 48
+                    }
+                ]
+            },
+            {
+                "date": "Apr 14\u2009\u2013\u200920, 2024",
+                "timestamp": "1713052800",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "75",
+                        "extracted_value": 75
+                    }
+                ]
+            },
+            {
+                "date": "Apr 21\u2009\u2013\u200927, 2024",
+                "timestamp": "1713657600",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "72",
+                        "extracted_value": 72
+                    }
+                ]
+            },
+            {
+                "date": "Apr 28\u2009\u2013\u2009May 4, 2024",
+                "timestamp": "1714262400",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "59",
+                        "extracted_value": 59
+                    }
+                ]
+            },
+            {
+                "date": "May 5\u2009\u2013\u200911, 2024",
+                "timestamp": "1714867200",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "49",
+                        "extracted_value": 49
+                    }
+                ]
+            },
+            {
+                "date": "May 12\u2009\u2013\u200918, 2024",
+                "timestamp": "1715472000",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "57",
+                        "extracted_value": 57
+                    }
+                ]
+            },
+            {
+                "date": "May 19\u2009\u2013\u200925, 2024",
+                "timestamp": "1716076800",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "64",
+                        "extracted_value": 64
+                    }
+                ]
+            },
+            {
+                "date": "May 26\u2009\u2013\u2009Jun 1, 2024",
+                "timestamp": "1716681600",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "58",
+                        "extracted_value": 58
+                    }
+                ]
+            },
+            {
+                "date": "Jun 2\u2009\u2013\u20098, 2024",
+                "timestamp": "1717286400",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "75",
+                        "extracted_value": 75
+                    }
+                ]
+            },
+            {
+                "date": "Jun 9\u2009\u2013\u200915, 2024",
+                "timestamp": "1717891200",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "100",
+                        "extracted_value": 100
+                    }
+                ]
+            },
+            {
+                "date": "Jun 16\u2009\u2013\u200922, 2024",
+                "timestamp": "1718496000",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "77",
+                        "extracted_value": 77
+                    }
+                ]
+            },
+            {
+                "date": "Jun 23\u2009\u2013\u200929, 2024",
+                "timestamp": "1719100800",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "72",
+                        "extracted_value": 72
+                    }
+                ]
+            },
+            {
+                "date": "Jun 30\u2009\u2013\u2009Jul 6, 2024",
+                "timestamp": "1719705600",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "42",
+                        "extracted_value": 42
+                    }
+                ]
+            },
+            {
+                "date": "Jul 7\u2009\u2013\u200913, 2024",
+                "timestamp": "1720310400",
+                "values": [
+                    {
+                        "query": "Efici\u00eancia Energ\u00e9tica",
+                        "value": "37",
+                        "extracted_value": 37
+                    }
+                ]
+            }
+        ]
+    }
+}

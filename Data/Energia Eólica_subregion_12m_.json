@@ -1,0 +1,213 @@
+{
+    "search_metadata": {
+        "id": "668e9e4d3944b029e37af34c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7145d3ec189f2ffc/668e9e4d3944b029e37af34c.json",
+        "created_at": "2024-07-10 14:44:29 UTC",
+        "processed_at": "2024-07-10 14:44:29 UTC",
+        "google_trends_url": "https://trends.google.com/trends/api/explore?tz=180&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Energia+E%C3%B3lica%22%2C%22geo%22%3A%22BR%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%2C%22userConfig%22%3A%22%7BuserType%3A+%5C%22USER_TYPE_LEGIT_USER%5C%22%7D%22%7D",
+        "raw_html_file": "https://serpapi.com/searches/7145d3ec189f2ffc/668e9e4d3944b029e37af34c.html",
+        "prettify_html_file": "https://serpapi.com/searches/7145d3ec189f2ffc/668e9e4d3944b029e37af34c.prettify",
+        "total_time_taken": 5.82
+    },
+    "search_parameters": {
+        "engine": "google_trends",
+        "q": "Energia E\u00f3lica",
+        "geo": "BR",
+        "date": "today 12-m",
+        "tz": "180",
+        "data_type": "GEO_MAP_0",
+        "region": "REGION"
+    },
+    "interest_by_region": [
+        {
+            "geo": "BR-RN",
+            "location": "State of Rio Grande do Norte",
+            "max_value_index": 0,
+            "value": "100",
+            "extracted_value": 100
+        },
+        {
+            "geo": "BR-AC",
+            "location": "State of Acre",
+            "max_value_index": 0,
+            "value": "72",
+            "extracted_value": 72
+        },
+        {
+            "geo": "BR-PI",
+            "location": "State of Piau\u00ed",
+            "max_value_index": 0,
+            "value": "59",
+            "extracted_value": 59
+        },
+        {
+            "geo": "BR-AP",
+            "location": "State of Amap\u00e1",
+            "max_value_index": 0,
+            "value": "56",
+            "extracted_value": 56
+        },
+        {
+            "geo": "BR-TO",
+            "location": "State of Tocantins",
+            "max_value_index": 0,
+            "value": "56",
+            "extracted_value": 56
+        },
+        {
+            "geo": "BR-MA",
+            "location": "State of Maranh\u00e3o",
+            "max_value_index": 0,
+            "value": "56",
+            "extracted_value": 56
+        },
+        {
+            "geo": "BR-PB",
+            "location": "State of Para\u00edba",
+            "max_value_index": 0,
+            "value": "53",
+            "extracted_value": 53
+        },
+        {
+            "geo": "BR-BA",
+            "location": "State of Bahia",
+            "max_value_index": 0,
+            "value": "51",
+            "extracted_value": 51
+        },
+        {
+            "geo": "BR-RR",
+            "location": "State of Roraima",
+            "max_value_index": 0,
+            "value": "50",
+            "extracted_value": 50
+        },
+        {
+            "geo": "BR-AL",
+            "location": "State of Alagoas",
+            "max_value_index": 0,
+            "value": "48",
+            "extracted_value": 48
+        },
+        {
+            "geo": "BR-SE",
+            "location": "State of Sergipe",
+            "max_value_index": 0,
+            "value": "47",
+            "extracted_value": 47
+        },
+        {
+            "geo": "BR-CE",
+            "location": "State of Cear\u00e1",
+            "max_value_index": 0,
+            "value": "47",
+            "extracted_value": 47
+        },
+        {
+            "geo": "BR-PE",
+            "location": "State of Pernambuco",
+            "max_value_index": 0,
+            "value": "43",
+            "extracted_value": 43
+        },
+        {
+            "geo": "BR-ES",
+            "location": "State of Esp\u00edrito Santo",
+            "max_value_index": 0,
+            "value": "42",
+            "extracted_value": 42
+        },
+        {
+            "geo": "BR-AM",
+            "location": "State of Amazonas",
+            "max_value_index": 0,
+            "value": "42",
+            "extracted_value": 42
+        },
+        {
+            "geo": "BR-PA",
+            "location": "State of Par\u00e1",
+            "max_value_index": 0,
+            "value": "40",
+            "extracted_value": 40
+        },
+        {
+            "geo": "BR-MS",
+            "location": "State of Mato Grosso do Sul",
+            "max_value_index": 0,
+            "value": "35",
+            "extracted_value": 35
+        },
+        {
+            "geo": "BR-GO",
+            "location": "State of Goi\u00e1s",
+            "max_value_index": 0,
+            "value": "33",
+            "extracted_value": 33
+        },
+        {
+            "geo": "BR-RO",
+            "location": "State of Rond\u00f4nia",
+            "max_value_index": 0,
+            "value": "32",
+            "extracted_value": 32
+        },
+        {
+            "geo": "BR-MG",
+            "location": "State of Minas Gerais",
+            "max_value_index": 0,
+            "value": "30",
+            "extracted_value": 30
+        },
+        {
+            "geo": "BR-SC",
+            "location": "State of Santa Catarina",
+            "max_value_index": 0,
+            "value": "29",
+            "extracted_value": 29
+        },
+        {
+            "geo": "BR-RS",
+            "location": "State of Rio Grande do Sul",
+            "max_value_index": 0,
+            "value": "27",
+            "extracted_value": 27
+        },
+        {
+            "geo": "BR-RJ",
+            "location": "State of Rio de Janeiro",
+            "max_value_index": 0,
+            "value": "26",
+            "extracted_value": 26
+        },
+        {
+            "geo": "BR-MT",
+            "location": "State of Mato Grosso",
+            "max_value_index": 0,
+            "value": "24",
+            "extracted_value": 24
+        },
+        {
+            "geo": "BR-SP",
+            "location": "State of S\u00e3o Paulo",
+            "max_value_index": 0,
+            "value": "24",
+            "extracted_value": 24
+        },
+        {
+            "geo": "BR-PR",
+            "location": "State of Paran\u00e1",
+            "max_value_index": 0,
+            "value": "22",
+            "extracted_value": 22
+        },
+        {
+            "geo": "BR-DF",
+            "location": "Federal District",
+            "max_value_index": 0,
+            "value": "21",
+            "extracted_value": 21
+        }
+    ]
+}

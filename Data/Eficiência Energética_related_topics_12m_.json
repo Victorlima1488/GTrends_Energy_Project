@@ -1,0 +1,533 @@
+{
+    "search_metadata": {
+        "id": "668ed0c424e88e0f1bf50240",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/38ebd4f4fccc414a/668ed0c424e88e0f1bf50240.json",
+        "created_at": "2024-07-10 18:19:48 UTC",
+        "processed_at": "2024-07-10 18:19:48 UTC",
+        "google_trends_url": "https://trends.google.com/trends/api/explore?tz=180&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Efici%C3%AAncia+Energ%C3%A9tica%22%2C%22geo%22%3A%22BR%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%2C%22userConfig%22%3A%22%7BuserType%3A+%5C%22USER_TYPE_LEGIT_USER%5C%22%7D%22%7D",
+        "raw_html_file": "https://serpapi.com/searches/38ebd4f4fccc414a/668ed0c424e88e0f1bf50240.html",
+        "prettify_html_file": "https://serpapi.com/searches/38ebd4f4fccc414a/668ed0c424e88e0f1bf50240.prettify",
+        "total_time_taken": 6.23
+    },
+    "search_parameters": {
+        "engine": "google_trends",
+        "q": "Efici\u00eancia Energ\u00e9tica",
+        "geo": "BR",
+        "date": "today 12-m",
+        "tz": "180",
+        "data_type": "RELATED_TOPICS"
+    },
+    "related_topics": {
+        "rising": [
+            {
+                "topic": {
+                    "value": "/m/02vnd10",
+                    "title": "Internet of things",
+                    "type": "Topic"
+                },
+                "value": "Breakout",
+                "extracted_value": 92850,
+                "link": "https://trends.google.com/trends/explore?q=/m/02vnd10&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02vnd10&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/11c0q_9fcc",
+                    "title": "Artificial",
+                    "type": "Topic"
+                },
+                "value": "Breakout",
+                "extracted_value": 83650,
+                "link": "https://trends.google.com/trends/explore?q=/g/11c0q_9fcc&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F11c0q_9fcc&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0183mn",
+                    "title": "Energy economics",
+                    "type": "Topic"
+                },
+                "value": "Breakout",
+                "extracted_value": 80500,
+                "link": "https://trends.google.com/trends/explore?q=/m/0183mn&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0183mn&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/07zy4y",
+                    "title": "Data analysis",
+                    "type": "Topic"
+                },
+                "value": "Breakout",
+                "extracted_value": 73350,
+                "link": "https://trends.google.com/trends/explore?q=/m/07zy4y&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F07zy4y&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0fk01",
+                    "title": "Urbanization",
+                    "type": "Topic"
+                },
+                "value": "Breakout",
+                "extracted_value": 60250,
+                "link": "https://trends.google.com/trends/explore?q=/m/0fk01&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0fk01&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/122mkxk0",
+                    "title": "scope",
+                    "type": "Topic"
+                },
+                "value": "Breakout",
+                "extracted_value": 57150,
+                "link": "https://trends.google.com/trends/explore?q=/g/122mkxk0&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F122mkxk0&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/121gpt_b",
+                    "title": "Context",
+                    "type": "Linguistics"
+                },
+                "value": "+1,100%",
+                "extracted_value": 1100,
+                "link": "https://trends.google.com/trends/explore?q=/g/121gpt_b&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F121gpt_b&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/09g9zkw",
+                    "title": "Smart city",
+                    "type": "Topic"
+                },
+                "value": "+950%",
+                "extracted_value": 950,
+                "link": "https://trends.google.com/trends/explore?q=/m/09g9zkw&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F09g9zkw&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/02bht",
+                    "title": "Dimension",
+                    "type": "Topic"
+                },
+                "value": "+800%",
+                "extracted_value": 800,
+                "link": "https://trends.google.com/trends/explore?q=/m/02bht&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02bht&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/064msgg",
+                    "title": "Environmental issues",
+                    "type": "Topic"
+                },
+                "value": "+600%",
+                "extracted_value": 600,
+                "link": "https://trends.google.com/trends/explore?q=/m/064msgg&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F064msgg&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/01dlmc",
+                    "title": "List",
+                    "type": "Abstract data type"
+                },
+                "value": "+550%",
+                "extracted_value": 550,
+                "link": "https://trends.google.com/trends/explore?q=/m/01dlmc&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F01dlmc&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/11tff8zjg2",
+                    "title": "Due",
+                    "type": "Topic"
+                },
+                "value": "+400%",
+                "extracted_value": 400,
+                "link": "https://trends.google.com/trends/explore?q=/g/11tff8zjg2&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F11tff8zjg2&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/120hz4cg",
+                    "title": "Solar panel",
+                    "type": "Topic"
+                },
+                "value": "+350%",
+                "extracted_value": 350,
+                "link": "https://trends.google.com/trends/explore?q=/g/120hz4cg&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F120hz4cg&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0hkf",
+                    "title": "Agriculture",
+                    "type": "Topic"
+                },
+                "value": "+300%",
+                "extracted_value": 300,
+                "link": "https://trends.google.com/trends/explore?q=/m/0hkf&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0hkf&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/09hqy",
+                    "title": "Seal",
+                    "type": "Emblem"
+                },
+                "value": "+250%",
+                "extracted_value": 250,
+                "link": "https://trends.google.com/trends/explore?q=/m/09hqy&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F09hqy&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/04mwwgd",
+                    "title": "Cold",
+                    "type": "Topic"
+                },
+                "value": "+250%",
+                "extracted_value": 250,
+                "link": "https://trends.google.com/trends/explore?q=/m/04mwwgd&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F04mwwgd&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/015n_w",
+                    "title": "Future",
+                    "type": "Topic"
+                },
+                "value": "+250%",
+                "extracted_value": 250,
+                "link": "https://trends.google.com/trends/explore?q=/m/015n_w&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F015n_w&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/04wzr",
+                    "title": "March",
+                    "type": "Month"
+                },
+                "value": "+200%",
+                "extracted_value": 200,
+                "link": "https://trends.google.com/trends/explore?q=/m/04wzr&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F04wzr&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/01fndy",
+                    "title": "Understanding",
+                    "type": "Topic"
+                },
+                "value": "+190%",
+                "extracted_value": 190,
+                "link": "https://trends.google.com/trends/explore?q=/m/01fndy&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F01fndy&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0cjbx",
+                    "title": "Refrigeration",
+                    "type": "Topic"
+                },
+                "value": "+190%",
+                "extracted_value": 190,
+                "link": "https://trends.google.com/trends/explore?q=/m/0cjbx&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0cjbx&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/1221y0k5",
+                    "title": "Adman",
+                    "type": "Career"
+                },
+                "value": "+190%",
+                "extracted_value": 190,
+                "link": "https://trends.google.com/trends/explore?q=/g/1221y0k5&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F1221y0k5&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/01lh7h",
+                    "title": "Safety",
+                    "type": "Topic"
+                },
+                "value": "+180%",
+                "extracted_value": 180,
+                "link": "https://trends.google.com/trends/explore?q=/m/01lh7h&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F01lh7h&tz=180"
+            }
+        ],
+        "top": [
+            {
+                "topic": {
+                    "value": "/m/02mm_",
+                    "title": "Energy",
+                    "type": "Topic"
+                },
+                "value": "100",
+                "extracted_value": 100,
+                "link": "https://trends.google.com/trends/explore?q=/m/02mm_&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02mm_&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0119nfsk",
+                    "title": "Efficiency",
+                    "type": "Topic"
+                },
+                "value": "91",
+                "extracted_value": 91,
+                "link": "https://trends.google.com/trends/explore?q=/m/0119nfsk&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0119nfsk&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/02rz0ly",
+                    "title": "Efficient energy use",
+                    "type": "Topic"
+                },
+                "value": "91",
+                "extracted_value": 91,
+                "link": "https://trends.google.com/trends/explore?q=/m/02rz0ly&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02rz0ly&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0hkst",
+                    "title": "Sustainability",
+                    "type": "Topic"
+                },
+                "value": "9",
+                "extracted_value": 9,
+                "link": "https://trends.google.com/trends/explore?q=/m/0hkst&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0hkst&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/02py09",
+                    "title": "Natural environment",
+                    "type": "Topic"
+                },
+                "value": "8",
+                "extracted_value": 8,
+                "link": "https://trends.google.com/trends/explore?q=/m/02py09&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02py09&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/07c1v",
+                    "title": "Technology",
+                    "type": "Topic"
+                },
+                "value": "8",
+                "extracted_value": 8,
+                "link": "https://trends.google.com/trends/explore?q=/m/07c1v&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F07c1v&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/02r5ml",
+                    "title": "Consumption",
+                    "type": "Economics"
+                },
+                "value": "8",
+                "extracted_value": 8,
+                "link": "https://trends.google.com/trends/explore?q=/m/02r5ml&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02r5ml&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0bj6r",
+                    "title": "System",
+                    "type": "Topic"
+                },
+                "value": "7",
+                "extracted_value": 7,
+                "link": "https://trends.google.com/trends/explore?q=/m/0bj6r&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0bj6r&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0n5wc2k",
+                    "title": "Electrical energy",
+                    "type": "Topic"
+                },
+                "value": "6",
+                "extracted_value": 6,
+                "link": "https://trends.google.com/trends/explore?q=/m/0n5wc2k&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0n5wc2k&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/1223qwg4",
+                    "title": "Air",
+                    "type": "Topic"
+                },
+                "value": "6",
+                "extracted_value": 6,
+                "link": "https://trends.google.com/trends/explore?q=/g/1223qwg4&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F1223qwg4&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/06fhs",
+                    "title": "Renewable energy",
+                    "type": "Topic"
+                },
+                "value": "6",
+                "extracted_value": 6,
+                "link": "https://trends.google.com/trends/explore?q=/m/06fhs&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F06fhs&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0156dy",
+                    "title": "Project",
+                    "type": "Topic"
+                },
+                "value": "6",
+                "extracted_value": 6,
+                "link": "https://trends.google.com/trends/explore?q=/m/0156dy&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0156dy&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/122q4xxl",
+                    "title": "process",
+                    "type": "Topic"
+                },
+                "value": "5",
+                "extracted_value": 5,
+                "link": "https://trends.google.com/trends/explore?q=/g/122q4xxl&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F122q4xxl&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/02ywd",
+                    "title": "Fuel",
+                    "type": "Topic"
+                },
+                "value": "5",
+                "extracted_value": 5,
+                "link": "https://trends.google.com/trends/explore?q=/m/02ywd&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02ywd&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/02j62",
+                    "title": "Economics",
+                    "type": "Field of study"
+                },
+                "value": "5",
+                "extracted_value": 5,
+                "link": "https://trends.google.com/trends/explore?q=/m/02j62&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02j62&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/025wky1",
+                    "title": "Air conditioning",
+                    "type": "Topic"
+                },
+                "value": "5",
+                "extracted_value": 5,
+                "link": "https://trends.google.com/trends/explore?q=/m/025wky1&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F025wky1&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0806jls",
+                    "title": "Production",
+                    "type": "Economics"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/m/0806jls&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0806jls&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/11spgvg3n4",
+                    "title": "major",
+                    "type": "Topic"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/g/11spgvg3n4&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F11spgvg3n4&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/121ymzyz",
+                    "title": "industrial sector",
+                    "type": "Topic"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/g/121ymzyz&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F121ymzyz&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/02lts",
+                    "title": "Electricity",
+                    "type": "Topic"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/m/02lts&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02lts&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/01jwgf",
+                    "title": "Product",
+                    "type": "Business"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/m/01jwgf&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F01jwgf&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/121vr6rm",
+                    "title": "Analysis",
+                    "type": "Topic"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/g/121vr6rm&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F121vr6rm&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/121c4vmj",
+                    "title": "Management",
+                    "type": "Topic"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/g/121c4vmj&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F121c4vmj&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/06xbd",
+                    "title": "Solar energy",
+                    "type": "Topic"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/m/06xbd&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F06xbd&tz=180"
+            }
+        ]
+    }
+}

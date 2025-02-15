@@ -1,0 +1,272 @@
+{
+    "search_metadata": {
+        "id": "668ecfe9a74fe0ff84c8e9c3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7145d3ec189f2ffc/668ecfe9a74fe0ff84c8e9c3.json",
+        "created_at": "2024-07-10 18:16:09 UTC",
+        "processed_at": "2024-07-10 18:16:09 UTC",
+        "google_trends_url": "https://trends.google.com/trends/api/explore?tz=180&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Energia+E%C3%B3lica%22%2C%22geo%22%3A%22BR%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%2C%22userConfig%22%3A%22%7BuserType%3A+%5C%22USER_TYPE_LEGIT_USER%5C%22%7D%22%7D",
+        "raw_html_file": "https://serpapi.com/searches/7145d3ec189f2ffc/668ecfe9a74fe0ff84c8e9c3.html",
+        "prettify_html_file": "https://serpapi.com/searches/7145d3ec189f2ffc/668ecfe9a74fe0ff84c8e9c3.prettify",
+        "total_time_taken": 10.88
+    },
+    "search_parameters": {
+        "engine": "google_trends",
+        "q": "Energia E\u00f3lica",
+        "geo": "BR",
+        "date": "today 12-m",
+        "tz": "180",
+        "data_type": "RELATED_QUERIES"
+    },
+    "related_queries": {
+        "rising": [
+            {
+                "query": "qual equipamento da turbina e\u00f3lica converte a energia cin\u00e9tica do vento em energia el\u00e9trica?",
+                "value": "Breakout",
+                "extracted_value": 52200,
+                "link": "https://trends.google.com/trends/explore?q=qual+equipamento+da+turbina+e%C3%B3lica+converte+a+energia+cin%C3%A9tica+do+vento+em+energia+el%C3%A9trica?&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=qual+equipamento+da+turbina+e%C3%B3lica+converte+a+energia+cin%C3%A9tica+do+vento+em+energia+el%C3%A9trica%3F&tz=180"
+            },
+            {
+                "query": "as usinas e\u00f3licas utilizam uma fonte de energia __________ e __________, pois n\u00e3o produzem gases poluentes. no entanto, elas podem causar impactos ambientais, como a __________ de habitats naturais.",
+                "value": "Breakout",
+                "extracted_value": 22150,
+                "link": "https://trends.google.com/trends/explore?q=as+usinas+e%C3%B3licas+utilizam+uma+fonte+de+energia+__________+e+__________,+pois+n%C3%A3o+produzem+gases+poluentes.+no+entanto,+elas+podem+causar+impactos+ambientais,+como+a+__________+de+habitats+naturais.&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=as+usinas+e%C3%B3licas+utilizam+uma+fonte+de+energia+__________+e+__________%2C+pois+n%C3%A3o+produzem+gases+poluentes.+no+entanto%2C+elas+podem+causar+impactos+ambientais%2C+como+a+__________+de+habitats+naturais.&tz=180"
+            },
+            {
+                "query": "5 desvantagens da energia e\u00f3lica",
+                "value": "+120%",
+                "extracted_value": 120,
+                "link": "https://trends.google.com/trends/explore?q=5+desvantagens+da+energia+e%C3%B3lica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=5+desvantagens+da+energia+e%C3%B3lica&tz=180"
+            },
+            {
+                "query": "energia cin\u00e9tica",
+                "value": "+90%",
+                "extracted_value": 90,
+                "link": "https://trends.google.com/trends/explore?q=energia+cin%C3%A9tica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+cin%C3%A9tica&tz=180"
+            },
+            {
+                "query": "turbina e\u00f3lica",
+                "value": "+70%",
+                "extracted_value": 70,
+                "link": "https://trends.google.com/trends/explore?q=turbina+e%C3%B3lica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=turbina+e%C3%B3lica&tz=180"
+            },
+            {
+                "query": "energia hidroel\u00e9trica",
+                "value": "+60%",
+                "extracted_value": 60,
+                "link": "https://trends.google.com/trends/explore?q=energia+hidroel%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+hidroel%C3%A9trica&tz=180"
+            },
+            {
+                "query": "kit energia e\u00f3lica residencial 220v",
+                "value": "+60%",
+                "extracted_value": 60,
+                "link": "https://trends.google.com/trends/explore?q=kit+energia+e%C3%B3lica+residencial+220v&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=kit+energia+e%C3%B3lica+residencial+220v&tz=180"
+            },
+            {
+                "query": "o que \u00e9 energia cin\u00e9tica",
+                "value": "+50%",
+                "extracted_value": 50,
+                "link": "https://trends.google.com/trends/explore?q=o+que+%C3%A9+energia+cin%C3%A9tica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+%C3%A9+energia+cin%C3%A9tica&tz=180"
+            },
+            {
+                "query": "turbina e\u00f3lica residencial",
+                "value": "+50%",
+                "extracted_value": 50,
+                "link": "https://trends.google.com/trends/explore?q=turbina+e%C3%B3lica+residencial&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=turbina+e%C3%B3lica+residencial&tz=180"
+            },
+            {
+                "query": "carv\u00e3o mineral \u00e9 renovavel",
+                "value": "+50%",
+                "extracted_value": 50,
+                "link": "https://trends.google.com/trends/explore?q=carv%C3%A3o+mineral+%C3%A9+renovavel&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=carv%C3%A3o+mineral+%C3%A9+renovavel&tz=180"
+            }
+        ],
+        "top": [
+            {
+                "query": "solar",
+                "value": "100",
+                "extracted_value": 100,
+                "link": "https://trends.google.com/trends/explore?q=solar&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=solar&tz=180"
+            },
+            {
+                "query": "energia solar",
+                "value": "95",
+                "extracted_value": 95,
+                "link": "https://trends.google.com/trends/explore?q=energia+solar&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+solar&tz=180"
+            },
+            {
+                "query": "o que \u00e9 e\u00f3lica",
+                "value": "67",
+                "extracted_value": 67,
+                "link": "https://trends.google.com/trends/explore?q=o+que+%C3%A9+e%C3%B3lica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+%C3%A9+e%C3%B3lica&tz=180"
+            },
+            {
+                "query": "o que \u00e9 energia e\u00f3lica",
+                "value": "67",
+                "extracted_value": 67,
+                "link": "https://trends.google.com/trends/explore?q=o+que+%C3%A9+energia+e%C3%B3lica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+%C3%A9+energia+e%C3%B3lica&tz=180"
+            },
+            {
+                "query": "o que \u00e9 energia",
+                "value": "66",
+                "extracted_value": 66,
+                "link": "https://trends.google.com/trends/explore?q=o+que+%C3%A9+energia&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+%C3%A9+energia&tz=180"
+            },
+            {
+                "query": "energia e\u00f3lica vantagens",
+                "value": "56",
+                "extracted_value": 56,
+                "link": "https://trends.google.com/trends/explore?q=energia+e%C3%B3lica+vantagens&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+e%C3%B3lica+vantagens&tz=180"
+            },
+            {
+                "query": "energia e\u00f3lica brasil",
+                "value": "54",
+                "extracted_value": 54,
+                "link": "https://trends.google.com/trends/explore?q=energia+e%C3%B3lica+brasil&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+e%C3%B3lica+brasil&tz=180"
+            },
+            {
+                "query": "energia e\u00f3lica desvantagens",
+                "value": "53",
+                "extracted_value": 53,
+                "link": "https://trends.google.com/trends/explore?q=energia+e%C3%B3lica+desvantagens&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+e%C3%B3lica+desvantagens&tz=180"
+            },
+            {
+                "query": "desvantagens",
+                "value": "53",
+                "extracted_value": 53,
+                "link": "https://trends.google.com/trends/explore?q=desvantagens&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=desvantagens&tz=180"
+            },
+            {
+                "query": "eolica",
+                "value": "52",
+                "extracted_value": 52,
+                "link": "https://trends.google.com/trends/explore?q=eolica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=eolica&tz=180"
+            },
+            {
+                "query": "energia eolica",
+                "value": "52",
+                "extracted_value": 52,
+                "link": "https://trends.google.com/trends/explore?q=energia+eolica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+eolica&tz=180"
+            },
+            {
+                "query": "o que \u00e9 a energia e\u00f3lica",
+                "value": "49",
+                "extracted_value": 49,
+                "link": "https://trends.google.com/trends/explore?q=o+que+%C3%A9+a+energia+e%C3%B3lica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+%C3%A9+a+energia+e%C3%B3lica&tz=180"
+            },
+            {
+                "query": "vantagens da energia e\u00f3lica",
+                "value": "44",
+                "extracted_value": 44,
+                "link": "https://trends.google.com/trends/explore?q=vantagens+da+energia+e%C3%B3lica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=vantagens+da+energia+e%C3%B3lica&tz=180"
+            },
+            {
+                "query": "energia e\u00f3lica no brasil",
+                "value": "42",
+                "extracted_value": 42,
+                "link": "https://trends.google.com/trends/explore?q=energia+e%C3%B3lica+no+brasil&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+e%C3%B3lica+no+brasil&tz=180"
+            },
+            {
+                "query": "fontes de energia",
+                "value": "41",
+                "extracted_value": 41,
+                "link": "https://trends.google.com/trends/explore?q=fontes+de+energia&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=fontes+de+energia&tz=180"
+            },
+            {
+                "query": "fontes de energia e\u00f3lica",
+                "value": "41",
+                "extracted_value": 41,
+                "link": "https://trends.google.com/trends/explore?q=fontes+de+energia+e%C3%B3lica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=fontes+de+energia+e%C3%B3lica&tz=180"
+            },
+            {
+                "query": "desvantagens da energia e\u00f3lica",
+                "value": "40",
+                "extracted_value": 40,
+                "link": "https://trends.google.com/trends/explore?q=desvantagens+da+energia+e%C3%B3lica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=desvantagens+da+energia+e%C3%B3lica&tz=180"
+            },
+            {
+                "query": "energia hidrel\u00e9trica",
+                "value": "39",
+                "extracted_value": 39,
+                "link": "https://trends.google.com/trends/explore?q=energia+hidrel%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+hidrel%C3%A9trica&tz=180"
+            },
+            {
+                "query": "hidrel\u00e9trica",
+                "value": "39",
+                "extracted_value": 39,
+                "link": "https://trends.google.com/trends/explore?q=hidrel%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=hidrel%C3%A9trica&tz=180"
+            },
+            {
+                "query": "energia e\u00f3lica vantagens e desvantagens",
+                "value": "39",
+                "extracted_value": 39,
+                "link": "https://trends.google.com/trends/explore?q=energia+e%C3%B3lica+vantagens+e+desvantagens&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+e%C3%B3lica+vantagens+e+desvantagens&tz=180"
+            },
+            {
+                "query": "vantagens e desvantagens",
+                "value": "39",
+                "extracted_value": 39,
+                "link": "https://trends.google.com/trends/explore?q=vantagens+e+desvantagens&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=vantagens+e+desvantagens&tz=180"
+            },
+            {
+                "query": "sobre energia e\u00f3lica",
+                "value": "37",
+                "extracted_value": 37,
+                "link": "https://trends.google.com/trends/explore?q=sobre+energia+e%C3%B3lica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=sobre+energia+e%C3%B3lica&tz=180"
+            },
+            {
+                "query": "fonte de energia",
+                "value": "36",
+                "extracted_value": 36,
+                "link": "https://trends.google.com/trends/explore?q=fonte+de+energia&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=fonte+de+energia&tz=180"
+            },
+            {
+                "query": "fonte de energia e\u00f3lica",
+                "value": "36",
+                "extracted_value": 36,
+                "link": "https://trends.google.com/trends/explore?q=fonte+de+energia+e%C3%B3lica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=fonte+de+energia+e%C3%B3lica&tz=180"
+            },
+            {
+                "query": "energia nuclear",
+                "value": "35",
+                "extracted_value": 35,
+                "link": "https://trends.google.com/trends/explore?q=energia+nuclear&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+nuclear&tz=180"
+            }
+        ]
+    }
+}

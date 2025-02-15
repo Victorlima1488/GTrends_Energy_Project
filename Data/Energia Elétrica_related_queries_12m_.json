@@ -1,0 +1,349 @@
+{
+    "search_metadata": {
+        "id": "668ecfd3660dbd9f3df04a11",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/01f88bd979b84614/668ecfd3660dbd9f3df04a11.json",
+        "created_at": "2024-07-10 18:15:47 UTC",
+        "processed_at": "2024-07-10 18:15:47 UTC",
+        "google_trends_url": "https://trends.google.com/trends/api/explore?tz=180&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Energia+El%C3%A9trica%22%2C%22geo%22%3A%22BR%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%2C%22userConfig%22%3A%22%7BuserType%3A+%5C%22USER_TYPE_LEGIT_USER%5C%22%7D%22%7D",
+        "raw_html_file": "https://serpapi.com/searches/01f88bd979b84614/668ecfd3660dbd9f3df04a11.html",
+        "prettify_html_file": "https://serpapi.com/searches/01f88bd979b84614/668ecfd3660dbd9f3df04a11.prettify",
+        "total_time_taken": 9.0
+    },
+    "search_parameters": {
+        "engine": "google_trends",
+        "q": "Energia El\u00e9trica",
+        "geo": "BR",
+        "date": "today 12-m",
+        "tz": "180",
+        "data_type": "RELATED_QUERIES"
+    },
+    "related_queries": {
+        "rising": [
+            {
+                "query": "apagao nacional energia el\u00e9trica",
+                "value": "Breakout",
+                "extracted_value": 37200,
+                "link": "https://trends.google.com/trends/explore?q=apagao+nacional+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=apagao+nacional+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "conhecida como revolu\u00e7\u00e3o digital e revolu\u00e7\u00e3o t\u00e9cnico-cient\u00edfica, suas principais caracter\u00edsticas foram a produ\u00e7\u00e3o flex\u00edvel; a automa\u00e7\u00e3o industrial; a nanotecnologia; a biotecnologia; a mecatr\u00f4nica; a microinform\u00e1tica; as telecomunica\u00e7\u00f5es, entre outras tecnologias.",
+                "value": "Breakout",
+                "extracted_value": 5750,
+                "link": "https://trends.google.com/trends/explore?q=conhecida+como+revolu%C3%A7%C3%A3o+digital+e+revolu%C3%A7%C3%A3o+t%C3%A9cnico-cient%C3%ADfica,+suas+principais+caracter%C3%ADsticas+foram+a+produ%C3%A7%C3%A3o+flex%C3%ADvel;+a+automa%C3%A7%C3%A3o+industrial;+a+nanotecnologia;+a+biotecnologia;+a+mecatr%C3%B4nica;+a+microinform%C3%A1tica;+as+telecomunica%C3%A7%C3%B5es,+entre+outras+tecnologias.&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=conhecida+como+revolu%C3%A7%C3%A3o+digital+e+revolu%C3%A7%C3%A3o+t%C3%A9cnico-cient%C3%ADfica%2C+suas+principais+caracter%C3%ADsticas+foram+a+produ%C3%A7%C3%A3o+flex%C3%ADvel%3B+a+automa%C3%A7%C3%A3o+industrial%3B+a+nanotecnologia%3B+a+biotecnologia%3B+a+mecatr%C3%B4nica%3B+a+microinform%C3%A1tica%3B+as+telecomunica%C3%A7%C3%B5es%2C+entre+outras+tecnologias.&tz=180"
+            },
+            {
+                "query": "qual das alternativas a seguir descreve corretamente o caminho que a energia el\u00e9trica percorre desde sua gera\u00e7\u00e3o at\u00e9 chegar em nossa casa?",
+                "value": "Breakout",
+                "extracted_value": 5500,
+                "link": "https://trends.google.com/trends/explore?q=qual+das+alternativas+a+seguir+descreve+corretamente+o+caminho+que+a+energia+el%C3%A9trica+percorre+desde+sua+gera%C3%A7%C3%A3o+at%C3%A9+chegar+em+nossa+casa?&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=qual+das+alternativas+a+seguir+descreve+corretamente+o+caminho+que+a+energia+el%C3%A9trica+percorre+desde+sua+gera%C3%A7%C3%A3o+at%C3%A9+chegar+em+nossa+casa%3F&tz=180"
+            },
+            {
+                "query": "no final do s\u00e9culo xix, a energia el\u00e9trica impulsionou a moderniza\u00e7\u00e3o de m\u00e1quinas e equipamentos industriais. al\u00e9m da inglaterra, a industrializa\u00e7\u00e3o alcan\u00e7ou outros pa\u00edses. nos estados unidos, surgia o fordismo, um novo modelo de produ\u00e7\u00e3o industrial, que tinha como caracter\u00edsticas a repetitividade, padroniza\u00e7\u00e3o do produto e produ\u00e7\u00e3o em massa.",
+                "value": "Breakout",
+                "extracted_value": 5300,
+                "link": "https://trends.google.com/trends/explore?q=no+final+do+s%C3%A9culo+xix,+a+energia+el%C3%A9trica+impulsionou+a+moderniza%C3%A7%C3%A3o+de+m%C3%A1quinas+e+equipamentos+industriais.+al%C3%A9m+da+inglaterra,+a+industrializa%C3%A7%C3%A3o+alcan%C3%A7ou+outros+pa%C3%ADses.+nos+estados+unidos,+surgia+o+fordismo,+um+novo+modelo+de+produ%C3%A7%C3%A3o+industrial,+que+tinha+como+caracter%C3%ADsticas+a+repetitividade,+padroniza%C3%A7%C3%A3o+do+produto+e+produ%C3%A7%C3%A3o+em+massa.&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=no+final+do+s%C3%A9culo+xix%2C+a+energia+el%C3%A9trica+impulsionou+a+moderniza%C3%A7%C3%A3o+de+m%C3%A1quinas+e+equipamentos+industriais.+al%C3%A9m+da+inglaterra%2C+a+industrializa%C3%A7%C3%A3o+alcan%C3%A7ou+outros+pa%C3%ADses.+nos+estados+unidos%2C+surgia+o+fordismo%2C+um+novo+modelo+de+produ%C3%A7%C3%A3o+industrial%2C+que+tinha+como+caracter%C3%ADsticas+a+repetitividade%2C+padroniza%C3%A7%C3%A3o+do+produto+e+produ%C3%A7%C3%A3o+em+massa.&tz=180"
+            },
+            {
+                "query": "quais s\u00e3o os ganhos que o consumo consciente de energia el\u00e9trica pode proporcionar",
+                "value": "+4,850%",
+                "extracted_value": 4850,
+                "link": "https://trends.google.com/trends/explore?q=quais+s%C3%A3o+os+ganhos+que+o+consumo+consciente+de+energia+el%C3%A9trica+pode+proporcionar&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=quais+s%C3%A3o+os+ganhos+que+o+consumo+consciente+de+energia+el%C3%A9trica+pode+proporcionar&tz=180"
+            },
+            {
+                "query": "fisioterapeuta dan\u00e7a rec\u00e9m nascido",
+                "value": "+3,600%",
+                "extracted_value": 3600,
+                "link": "https://trends.google.com/trends/explore?q=fisioterapeuta+dan%C3%A7a+rec%C3%A9m+nascido&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=fisioterapeuta+dan%C3%A7a+rec%C3%A9m+nascido&tz=180"
+            },
+            {
+                "query": "qual fruto pode gerar energia el\u00e9trica",
+                "value": "+3,350%",
+                "extracted_value": 3350,
+                "link": "https://trends.google.com/trends/explore?q=qual+fruto+pode+gerar+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=qual+fruto+pode+gerar+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "atriz lea garcia morreu",
+                "value": "+3,100%",
+                "extracted_value": 3100,
+                "link": "https://trends.google.com/trends/explore?q=atriz+lea+garcia+morreu&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=atriz+lea+garcia+morreu&tz=180"
+            },
+            {
+                "query": "a imagem apresenta um sistema caseiro de gera\u00e7\u00e3o de energia limpa atrav\u00e9s do impacto de um bloco de 500 g. o bloco, que est\u00e1 inicialmente em repouso no topo do aparato, desliza pela superf\u00edcie inclinada sem atrito, passando pelo ponto a atingindo a plataforma localizada em b. esse sistema, apesar da efici\u00eancia na transforma\u00e7\u00e3o de energia cin\u00e9tica em el\u00e9trica ser de 40 %, possibilita menor uso da energia el\u00e9trica convencional, mesmo que em pequena escala.",
+                "value": "+2,750%",
+                "extracted_value": 2750,
+                "link": "https://trends.google.com/trends/explore?q=a+imagem+apresenta+um+sistema+caseiro+de+gera%C3%A7%C3%A3o+de+energia+limpa+atrav%C3%A9s+do+impacto+de+um+bloco+de+500+g.+o+bloco,+que+est%C3%A1+inicialmente+em+repouso+no+topo+do+aparato,+desliza+pela+superf%C3%ADcie+inclinada+sem+atrito,+passando+pelo+ponto+a+atingindo+a+plataforma+localizada+em+b.+esse+sistema,+apesar+da+efici%C3%AAncia+na+transforma%C3%A7%C3%A3o+de+energia+cin%C3%A9tica+em+el%C3%A9trica+ser+de+40+%25,+possibilita+menor+uso+da+energia+el%C3%A9trica+convencional,+mesmo+que+em+pequena+escala.&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=a+imagem+apresenta+um+sistema+caseiro+de+gera%C3%A7%C3%A3o+de+energia+limpa+atrav%C3%A9s+do+impacto+de+um+bloco+de+500+g.+o+bloco%2C+que+est%C3%A1+inicialmente+em+repouso+no+topo+do+aparato%2C+desliza+pela+superf%C3%ADcie+inclinada+sem+atrito%2C+passando+pelo+ponto+a+atingindo+a+plataforma+localizada+em+b.+esse+sistema%2C+apesar+da+efici%C3%AAncia+na+transforma%C3%A7%C3%A3o+de+energia+cin%C3%A9tica+em+el%C3%A9trica+ser+de+40+%25%2C+possibilita+menor+uso+da+energia+el%C3%A9trica+convencional%2C+mesmo+que+em+pequena+escala.&tz=180"
+            },
+            {
+                "query": "petrobras anuncia aumento gasolina",
+                "value": "+1,300%",
+                "extracted_value": 1300,
+                "link": "https://trends.google.com/trends/explore?q=petrobras+anuncia+aumento+gasolina&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=petrobras+anuncia+aumento+gasolina&tz=180"
+            },
+            {
+                "query": "manaus sem energia el\u00e9trica",
+                "value": "+1,150%",
+                "extracted_value": 1150,
+                "link": "https://trends.google.com/trends/explore?q=manaus+sem+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=manaus+sem+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "a ind\u00fastria 4.0 \u00e9 conhecida pelo avan\u00e7o tecnol\u00f3gico em prol da competitividade, mas al\u00e9m disso, do desenvolvimento de tecnologias ben\u00e9ficas \u00e0 sociedade e ambiente. novos materiais s\u00e3o a consequ\u00eancia de estudos e pesquisas possibilitadas pelo correto emprego da tecnologia, e dessa forma novos equipamentos e processos podem ser desenvolvidos. nesse cen\u00e1rio evolutivo, as pessoas n\u00e3o ficam de fora, os empregados de uma organiza\u00e7\u00e3o 4.0 tamb\u00e9m est\u00e3o sujeitos \u00e0s transforma\u00e7\u00f5es, necessitando de capacidades intelectuais aprimoradas, como \u00e9 o caso do racioc\u00ednio l\u00f3gico agu\u00e7ado e das t\u00e9cnicas sociais de transmiss\u00e3o de informa\u00e7\u00e3o e intera\u00e7\u00e3o social. isto \u00e9, a quarta onda promove a evolu\u00e7\u00e3o cont\u00ednua das pessoas, do ambiente e das empresas.",
+                "value": "+850%",
+                "extracted_value": 850,
+                "link": "https://trends.google.com/trends/explore?q=a+ind%C3%BAstria+4.0+%C3%A9+conhecida+pelo+avan%C3%A7o+tecnol%C3%B3gico+em+prol+da+competitividade,+mas+al%C3%A9m+disso,+do+desenvolvimento+de+tecnologias+ben%C3%A9ficas+%C3%A0+sociedade+e+ambiente.+novos+materiais+s%C3%A3o+a+consequ%C3%AAncia+de+estudos+e+pesquisas+possibilitadas+pelo+correto+emprego+da+tecnologia,+e+dessa+forma+novos+equipamentos+e+processos+podem+ser+desenvolvidos.+nesse+cen%C3%A1rio+evolutivo,+as+pessoas+n%C3%A3o+ficam+de+fora,+os+empregados+de+uma+organiza%C3%A7%C3%A3o+4.0+tamb%C3%A9m+est%C3%A3o+sujeitos+%C3%A0s+transforma%C3%A7%C3%B5es,+necessitando+de+capacidades+intelectuais+aprimoradas,+como+%C3%A9+o+caso+do+racioc%C3%ADnio+l%C3%B3gico+agu%C3%A7ado+e+das+t%C3%A9cnicas+sociais+de+transmiss%C3%A3o+de+informa%C3%A7%C3%A3o+e+intera%C3%A7%C3%A3o+social.+isto+%C3%A9,+a+quarta+onda+promove+a+evolu%C3%A7%C3%A3o+cont%C3%ADnua+das+pessoas,+do+ambiente+e+das+empresas.&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=a+ind%C3%BAstria+4.0+%C3%A9+conhecida+pelo+avan%C3%A7o+tecnol%C3%B3gico+em+prol+da+competitividade%2C+mas+al%C3%A9m+disso%2C+do+desenvolvimento+de+tecnologias+ben%C3%A9ficas+%C3%A0+sociedade+e+ambiente.+novos+materiais+s%C3%A3o+a+consequ%C3%AAncia+de+estudos+e+pesquisas+possibilitadas+pelo+correto+emprego+da+tecnologia%2C+e+dessa+forma+novos+equipamentos+e+processos+podem+ser+desenvolvidos.+nesse+cen%C3%A1rio+evolutivo%2C+as+pessoas+n%C3%A3o+ficam+de+fora%2C+os+empregados+de+uma+organiza%C3%A7%C3%A3o+4.0+tamb%C3%A9m+est%C3%A3o+sujeitos+%C3%A0s+transforma%C3%A7%C3%B5es%2C+necessitando+de+capacidades+intelectuais+aprimoradas%2C+como+%C3%A9+o+caso+do+racioc%C3%ADnio+l%C3%B3gico+agu%C3%A7ado+e+das+t%C3%A9cnicas+sociais+de+transmiss%C3%A3o+de+informa%C3%A7%C3%A3o+e+intera%C3%A7%C3%A3o+social.+isto+%C3%A9%2C+a+quarta+onda+promove+a+evolu%C3%A7%C3%A3o+cont%C3%ADnua+das+pessoas%2C+do+ambiente+e+das+empresas.&tz=180"
+            },
+            {
+                "query": "por volta dos anos 1860 o mundo passava pela sua segunda grande revolu\u00e7\u00e3o industrial, a qual tornou poss\u00edvel a utiliza\u00e7\u00e3o da energia el\u00e9trica nas f\u00e1bricas e postos de trabalho. esse per\u00edodo foi caracterizado pelo enorme avan\u00e7o de volume de produ\u00e7\u00e3o, o qual n\u00e3o priorizou o uso de m\u00e1quinas t\u00e9rmicas, como aquelas a vapor do per\u00edodo anterior. logo, nesse per\u00edodo surgiram grandes nomes nas ind\u00fastrias capazes de remodelar os processos produtivos, elaborando os m\u00e9todos de produ\u00e7\u00e3o, como o fordismo, presente nos estados unidos e, posteriormente, vis\u00edvel em outros pa\u00edses em sistemas similares.",
+                "value": "+700%",
+                "extracted_value": 700,
+                "link": "https://trends.google.com/trends/explore?q=por+volta+dos+anos+1860+o+mundo+passava+pela+sua+segunda+grande+revolu%C3%A7%C3%A3o+industrial,+a+qual+tornou+poss%C3%ADvel+a+utiliza%C3%A7%C3%A3o+da+energia+el%C3%A9trica+nas+f%C3%A1bricas+e+postos+de+trabalho.+esse+per%C3%ADodo+foi+caracterizado+pelo+enorme+avan%C3%A7o+de+volume+de+produ%C3%A7%C3%A3o,+o+qual+n%C3%A3o+priorizou+o+uso+de+m%C3%A1quinas+t%C3%A9rmicas,+como+aquelas+a+vapor+do+per%C3%ADodo+anterior.+logo,+nesse+per%C3%ADodo+surgiram+grandes+nomes+nas+ind%C3%BAstrias+capazes+de+remodelar+os+processos+produtivos,+elaborando+os+m%C3%A9todos+de+produ%C3%A7%C3%A3o,+como+o+fordismo,+presente+nos+estados+unidos+e,+posteriormente,+vis%C3%ADvel+em+outros+pa%C3%ADses+em+sistemas+similares.&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=por+volta+dos+anos+1860+o+mundo+passava+pela+sua+segunda+grande+revolu%C3%A7%C3%A3o+industrial%2C+a+qual+tornou+poss%C3%ADvel+a+utiliza%C3%A7%C3%A3o+da+energia+el%C3%A9trica+nas+f%C3%A1bricas+e+postos+de+trabalho.+esse+per%C3%ADodo+foi+caracterizado+pelo+enorme+avan%C3%A7o+de+volume+de+produ%C3%A7%C3%A3o%2C+o+qual+n%C3%A3o+priorizou+o+uso+de+m%C3%A1quinas+t%C3%A9rmicas%2C+como+aquelas+a+vapor+do+per%C3%ADodo+anterior.+logo%2C+nesse+per%C3%ADodo+surgiram+grandes+nomes+nas+ind%C3%BAstrias+capazes+de+remodelar+os+processos+produtivos%2C+elaborando+os+m%C3%A9todos+de+produ%C3%A7%C3%A3o%2C+como+o+fordismo%2C+presente+nos+estados+unidos+e%2C+posteriormente%2C+vis%C3%ADvel+em+outros+pa%C3%ADses+em+sistemas+similares.&tz=180"
+            },
+            {
+                "query": "energia el\u00e9trica apag\u00e3o",
+                "value": "+650%",
+                "extracted_value": 650,
+                "link": "https://trends.google.com/trends/explore?q=energia+el%C3%A9trica+apag%C3%A3o&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+el%C3%A9trica+apag%C3%A3o&tz=180"
+            },
+            {
+                "query": "o termo ind\u00fastria 4.0 se refere \u00e0 capacidade de conex\u00f5es empresariais com outros elementos fora de seu dom\u00ednio, al\u00e9m da possibilidade de relacionar os elementos externos com suas produ\u00e7\u00f5es de forma imediata, por meio da coleta e tratamento de dados. dessa forma, essa atualiza\u00e7\u00e3o toda resulta em redu\u00e7\u00e3o do quadro de funcion\u00e1rios, j\u00e1 que a intelig\u00eancia artificial ser\u00e1 utilizada e aproveitada ao m\u00e1ximo, e tamb\u00e9m far\u00e1 com que novos profissionais, com conhecimento sobre os novos processos, sejam requeridos nos ambientes empresariais.",
+                "value": "+450%",
+                "extracted_value": 450,
+                "link": "https://trends.google.com/trends/explore?q=o+termo+ind%C3%BAstria+4.0+se+refere+%C3%A0+capacidade+de+conex%C3%B5es+empresariais+com+outros+elementos+fora+de+seu+dom%C3%ADnio,+al%C3%A9m+da+possibilidade+de+relacionar+os+elementos+externos+com+suas+produ%C3%A7%C3%B5es+de+forma+imediata,+por+meio+da+coleta+e+tratamento+de+dados.+dessa+forma,+essa+atualiza%C3%A7%C3%A3o+toda+resulta+em+redu%C3%A7%C3%A3o+do+quadro+de+funcion%C3%A1rios,+j%C3%A1+que+a+intelig%C3%AAncia+artificial+ser%C3%A1+utilizada+e+aproveitada+ao+m%C3%A1ximo,+e+tamb%C3%A9m+far%C3%A1+com+que+novos+profissionais,+com+conhecimento+sobre+os+novos+processos,+sejam+requeridos+nos+ambientes+empresariais.&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+termo+ind%C3%BAstria+4.0+se+refere+%C3%A0+capacidade+de+conex%C3%B5es+empresariais+com+outros+elementos+fora+de+seu+dom%C3%ADnio%2C+al%C3%A9m+da+possibilidade+de+relacionar+os+elementos+externos+com+suas+produ%C3%A7%C3%B5es+de+forma+imediata%2C+por+meio+da+coleta+e+tratamento+de+dados.+dessa+forma%2C+essa+atualiza%C3%A7%C3%A3o+toda+resulta+em+redu%C3%A7%C3%A3o+do+quadro+de+funcion%C3%A1rios%2C+j%C3%A1+que+a+intelig%C3%AAncia+artificial+ser%C3%A1+utilizada+e+aproveitada+ao+m%C3%A1ximo%2C+e+tamb%C3%A9m+far%C3%A1+com+que+novos+profissionais%2C+com+conhecimento+sobre+os+novos+processos%2C+sejam+requeridos+nos+ambientes+empresariais.&tz=180"
+            },
+            {
+                "query": "aviso de desligamento programado de energia el\u00e9trica 2023",
+                "value": "+450%",
+                "extracted_value": 450,
+                "link": "https://trends.google.com/trends/explore?q=aviso+de+desligamento+programado+de+energia+el%C3%A9trica+2023&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=aviso+de+desligamento+programado+de+energia+el%C3%A9trica+2023&tz=180"
+            },
+            {
+                "query": "falta de energia el\u00e9trica em sp agora",
+                "value": "+120%",
+                "extracted_value": 120,
+                "link": "https://trends.google.com/trends/explore?q=falta+de+energia+el%C3%A9trica+em+sp+agora&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=falta+de+energia+el%C3%A9trica+em+sp+agora&tz=180"
+            },
+            {
+                "query": "sem energia el\u00e9trica",
+                "value": "+100%",
+                "extracted_value": 100,
+                "link": "https://trends.google.com/trends/explore?q=sem+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=sem+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "falta energia el\u00e9trica",
+                "value": "+70%",
+                "extracted_value": 70,
+                "link": "https://trends.google.com/trends/explore?q=falta+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=falta+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "falta de energia el\u00e9trica",
+                "value": "+50%",
+                "extracted_value": 50,
+                "link": "https://trends.google.com/trends/explore?q=falta+de+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=falta+de+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "falta de energia",
+                "value": "+50%",
+                "extracted_value": 50,
+                "link": "https://trends.google.com/trends/explore?q=falta+de+energia&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=falta+de+energia&tz=180"
+            }
+        ],
+        "top": [
+            {
+                "query": "o que \u00e9 energia",
+                "value": "100",
+                "extracted_value": 100,
+                "link": "https://trends.google.com/trends/explore?q=o+que+%C3%A9+energia&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+%C3%A9+energia&tz=180"
+            },
+            {
+                "query": "o que \u00e9 energia el\u00e9trica",
+                "value": "98",
+                "extracted_value": 98,
+                "link": "https://trends.google.com/trends/explore?q=o+que+%C3%A9+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+%C3%A9+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "consumo de energia el\u00e9trica",
+                "value": "53",
+                "extracted_value": 53,
+                "link": "https://trends.google.com/trends/explore?q=consumo+de+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=consumo+de+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "consumo de energia",
+                "value": "51",
+                "extracted_value": 51,
+                "link": "https://trends.google.com/trends/explore?q=consumo+de+energia&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=consumo+de+energia&tz=180"
+            },
+            {
+                "query": "gera\u00e7\u00e3o de energia el\u00e9trica",
+                "value": "33",
+                "extracted_value": 33,
+                "link": "https://trends.google.com/trends/explore?q=gera%C3%A7%C3%A3o+de+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=gera%C3%A7%C3%A3o+de+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "sem energia el\u00e9trica",
+                "value": "31",
+                "extracted_value": 31,
+                "link": "https://trends.google.com/trends/explore?q=sem+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=sem+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "corrente el\u00e9trica",
+                "value": "28",
+                "extracted_value": 28,
+                "link": "https://trends.google.com/trends/explore?q=corrente+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=corrente+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "energia solar",
+                "value": "26",
+                "extracted_value": 26,
+                "link": "https://trends.google.com/trends/explore?q=energia+solar&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+solar&tz=180"
+            },
+            {
+                "query": "fontes de energia el\u00e9trica",
+                "value": "23",
+                "extracted_value": 23,
+                "link": "https://trends.google.com/trends/explore?q=fontes+de+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=fontes+de+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "fontes de energia",
+                "value": "23",
+                "extracted_value": 23,
+                "link": "https://trends.google.com/trends/explore?q=fontes+de+energia&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=fontes+de+energia&tz=180"
+            },
+            {
+                "query": "fonte de energia el\u00e9trica",
+                "value": "23",
+                "extracted_value": 23,
+                "link": "https://trends.google.com/trends/explore?q=fonte+de+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=fonte+de+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "tipos de energia",
+                "value": "18",
+                "extracted_value": 18,
+                "link": "https://trends.google.com/trends/explore?q=tipos+de+energia&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=tipos+de+energia&tz=180"
+            },
+            {
+                "query": "pot\u00eancia el\u00e9trica",
+                "value": "18",
+                "extracted_value": 18,
+                "link": "https://trends.google.com/trends/explore?q=pot%C3%AAncia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=pot%C3%AAncia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "tipos de energia el\u00e9trica",
+                "value": "18",
+                "extracted_value": 18,
+                "link": "https://trends.google.com/trends/explore?q=tipos+de+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=tipos+de+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "distribui\u00e7\u00e3o de energia el\u00e9trica",
+                "value": "17",
+                "extracted_value": 17,
+                "link": "https://trends.google.com/trends/explore?q=distribui%C3%A7%C3%A3o+de+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=distribui%C3%A7%C3%A3o+de+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "energia potencial el\u00e9trica",
+                "value": "17",
+                "extracted_value": 17,
+                "link": "https://trends.google.com/trends/explore?q=energia+potencial+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+potencial+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "energia potencial",
+                "value": "17",
+                "extracted_value": 17,
+                "link": "https://trends.google.com/trends/explore?q=energia+potencial&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+potencial&tz=180"
+            },
+            {
+                "query": "o que \u00e9 corrente el\u00e9trica",
+                "value": "17",
+                "extracted_value": 17,
+                "link": "https://trends.google.com/trends/explore?q=o+que+%C3%A9+corrente+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+%C3%A9+corrente+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "tarifa de energia el\u00e9trica",
+                "value": "15",
+                "extracted_value": 15,
+                "link": "https://trends.google.com/trends/explore?q=tarifa+de+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=tarifa+de+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "falta energia el\u00e9trica",
+                "value": "15",
+                "extracted_value": 15,
+                "link": "https://trends.google.com/trends/explore?q=falta+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=falta+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "transmiss\u00e3o de energia el\u00e9trica",
+                "value": "15",
+                "extracted_value": 15,
+                "link": "https://trends.google.com/trends/explore?q=transmiss%C3%A3o+de+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=transmiss%C3%A3o+de+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "eletricidade",
+                "value": "14",
+                "extracted_value": 14,
+                "link": "https://trends.google.com/trends/explore?q=eletricidade&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=eletricidade&tz=180"
+            },
+            {
+                "query": "medidor de energia",
+                "value": "13",
+                "extracted_value": 13,
+                "link": "https://trends.google.com/trends/explore?q=medidor+de+energia&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=medidor+de+energia&tz=180"
+            },
+            {
+                "query": "medidor de energia el\u00e9trica",
+                "value": "13",
+                "extracted_value": 13,
+                "link": "https://trends.google.com/trends/explore?q=medidor+de+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=medidor+de+energia+el%C3%A9trica&tz=180"
+            },
+            {
+                "query": "falta de energia el\u00e9trica",
+                "value": "13",
+                "extracted_value": 13,
+                "link": "https://trends.google.com/trends/explore?q=falta+de+energia+el%C3%A9trica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=falta+de+energia+el%C3%A9trica&tz=180"
+            }
+        ]
+    }
+}

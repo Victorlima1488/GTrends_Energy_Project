@@ -1,0 +1,357 @@
+{
+    "search_metadata": {
+        "id": "668ed110ca968ffb3da94454",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/01f88bd979b84614/668ed110ca968ffb3da94454.json",
+        "created_at": "2024-07-10 18:21:04 UTC",
+        "processed_at": "2024-07-10 18:21:04 UTC",
+        "google_trends_url": "https://trends.google.com/trends/api/explore?tz=180&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Energia+El%C3%A9trica%22%2C%22geo%22%3A%22BR%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%2C%22userConfig%22%3A%22%7BuserType%3A+%5C%22USER_TYPE_LEGIT_USER%5C%22%7D%22%7D",
+        "raw_html_file": "https://serpapi.com/searches/01f88bd979b84614/668ed110ca968ffb3da94454.html",
+        "prettify_html_file": "https://serpapi.com/searches/01f88bd979b84614/668ed110ca968ffb3da94454.prettify",
+        "total_time_taken": 4.67
+    },
+    "search_parameters": {
+        "engine": "google_trends",
+        "q": "Energia El\u00e9trica",
+        "geo": "BR",
+        "date": "today 12-m",
+        "tz": "180",
+        "data_type": "RELATED_TOPICS"
+    },
+    "related_topics": {
+        "rising": [
+            {
+                "topic": {
+                    "value": "/m/01rbhn",
+                    "title": "Power outage",
+                    "type": "Topic"
+                },
+                "value": "+190%",
+                "extracted_value": 190,
+                "link": "https://trends.google.com/trends/explore?q=/m/01rbhn&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F01rbhn&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/11tff8zjg2",
+                    "title": "Due",
+                    "type": "Topic"
+                },
+                "value": "+110%",
+                "extracted_value": 110,
+                "link": "https://trends.google.com/trends/explore?q=/g/11tff8zjg2&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F11tff8zjg2&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0118vm2f",
+                    "title": "Energy consumption",
+                    "type": "Topic"
+                },
+                "value": "+110%",
+                "extracted_value": 110,
+                "link": "https://trends.google.com/trends/explore?q=/m/0118vm2f&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0118vm2f&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0gfgmr9",
+                    "title": "Particle",
+                    "type": "Topic"
+                },
+                "value": "+50%",
+                "extracted_value": 50,
+                "link": "https://trends.google.com/trends/explore?q=/m/0gfgmr9&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0gfgmr9&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/1269nxfgz",
+                    "title": "Equatorial Energia SA",
+                    "type": "Electric services company"
+                },
+                "value": "+50%",
+                "extracted_value": 50,
+                "link": "https://trends.google.com/trends/explore?q=/g/1269nxfgz&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F1269nxfgz&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/09pf_",
+                    "title": "Three-phase electric power",
+                    "type": "Topic"
+                },
+                "value": "+40%",
+                "extracted_value": 40,
+                "link": "https://trends.google.com/trends/explore?q=/m/09pf_&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F09pf_&tz=180"
+            }
+        ],
+        "top": [
+            {
+                "topic": {
+                    "value": "/m/02mm_",
+                    "title": "Energy",
+                    "type": "Topic"
+                },
+                "value": "100",
+                "extracted_value": 100,
+                "link": "https://trends.google.com/trends/explore?q=/m/02mm_&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02mm_&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0n5wc2k",
+                    "title": "Electrical energy",
+                    "type": "Topic"
+                },
+                "value": "94",
+                "extracted_value": 94,
+                "link": "https://trends.google.com/trends/explore?q=/m/0n5wc2k&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0n5wc2k&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/02lts",
+                    "title": "Electricity",
+                    "type": "Topic"
+                },
+                "value": "70",
+                "extracted_value": 70,
+                "link": "https://trends.google.com/trends/explore?q=/m/02lts&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02lts&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/02r5ml",
+                    "title": "Consumption",
+                    "type": "Economics"
+                },
+                "value": "9",
+                "extracted_value": 9,
+                "link": "https://trends.google.com/trends/explore?q=/m/02r5ml&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02r5ml&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/01f2sl",
+                    "title": "Power station",
+                    "type": "Topic"
+                },
+                "value": "6",
+                "extracted_value": 6,
+                "link": "https://trends.google.com/trends/explore?q=/m/01f2sl&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F01f2sl&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/01vfy",
+                    "title": "Electric",
+                    "type": "Topic"
+                },
+                "value": "5",
+                "extracted_value": 5,
+                "link": "https://trends.google.com/trends/explore?q=/m/01vfy&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F01vfy&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/06xbd",
+                    "title": "Solar energy",
+                    "type": "Topic"
+                },
+                "value": "5",
+                "extracted_value": 5,
+                "link": "https://trends.google.com/trends/explore?q=/m/06xbd&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F06xbd&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/02lrb",
+                    "title": "Electricity generation",
+                    "type": "Topic"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/m/02lrb&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02lrb&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/120ldvpl",
+                    "title": "energy source",
+                    "type": "Topic"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/g/120ldvpl&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F120ldvpl&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0bj6r",
+                    "title": "System",
+                    "type": "Topic"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/m/0bj6r&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0bj6r&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/07_27",
+                    "title": "Voltage",
+                    "type": "Topic"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/m/07_27&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F07_27&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/061ln",
+                    "title": "Power",
+                    "type": "Physics"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/m/061ln&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F061ln&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0806jls",
+                    "title": "Production",
+                    "type": "Economics"
+                },
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=/m/0806jls&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0806jls&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/04k84",
+                    "title": "Light",
+                    "type": "Topic"
+                },
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=/m/04k84&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F04k84&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/11b6th_qc5",
+                    "title": "hydroelectric power station",
+                    "type": "Topic"
+                },
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=/g/11b6th_qc5&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F11b6th_qc5&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/06fhs",
+                    "title": "Renewable energy",
+                    "type": "Topic"
+                },
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=/m/06fhs&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F06fhs&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/11spgvg3n4",
+                    "title": "major",
+                    "type": "Topic"
+                },
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=/g/11spgvg3n4&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F11spgvg3n4&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/0l4dz",
+                    "title": "Electric generator",
+                    "type": "Topic"
+                },
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=/m/0l4dz&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F0l4dz&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/02nxz",
+                    "title": "Electric charge",
+                    "type": "Field of study"
+                },
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=/m/02nxz&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F02nxz&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/122q4xxl",
+                    "title": "process",
+                    "type": "Topic"
+                },
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=/g/122q4xxl&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F122q4xxl&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/1232v3zw",
+                    "title": "Equipment",
+                    "type": "Topic"
+                },
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=/g/1232v3zw&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F1232v3zw&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/g/121m7xnm",
+                    "title": "being",
+                    "type": "Topic"
+                },
+                "value": "2",
+                "extracted_value": 2,
+                "link": "https://trends.google.com/trends/explore?q=/g/121m7xnm&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fg%2F121m7xnm&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/01phdl",
+                    "title": "Wind power",
+                    "type": "Topic"
+                },
+                "value": "2",
+                "extracted_value": 2,
+                "link": "https://trends.google.com/trends/explore?q=/m/01phdl&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F01phdl&tz=180"
+            },
+            {
+                "topic": {
+                    "value": "/m/021m_w",
+                    "title": "Hydroelectricity",
+                    "type": "Topic"
+                },
+                "value": "2",
+                "extracted_value": 2,
+                "link": "https://trends.google.com/trends/explore?q=/m/021m_w&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=BR&q=%2Fm%2F021m_w&tz=180"
+            }
+        ]
+    }
+}

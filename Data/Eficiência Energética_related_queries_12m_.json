@@ -1,0 +1,223 @@
+{
+    "search_metadata": {
+        "id": "668ecf083517643d8a63e799",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/38ebd4f4fccc414a/668ecf083517643d8a63e799.json",
+        "created_at": "2024-07-10 18:12:24 UTC",
+        "processed_at": "2024-07-10 18:12:24 UTC",
+        "google_trends_url": "https://trends.google.com/trends/api/explore?tz=180&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Efici%C3%AAncia+Energ%C3%A9tica%22%2C%22geo%22%3A%22BR%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%2C%22userConfig%22%3A%22%7BuserType%3A+%5C%22USER_TYPE_LEGIT_USER%5C%22%7D%22%7D",
+        "raw_html_file": "https://serpapi.com/searches/38ebd4f4fccc414a/668ecf083517643d8a63e799.html",
+        "prettify_html_file": "https://serpapi.com/searches/38ebd4f4fccc414a/668ecf083517643d8a63e799.prettify",
+        "total_time_taken": 9.23
+    },
+    "search_parameters": {
+        "engine": "google_trends",
+        "q": "Efici\u00eancia Energ\u00e9tica",
+        "geo": "BR",
+        "date": "today 12-m",
+        "tz": "180",
+        "data_type": "RELATED_QUERIES"
+    },
+    "related_queries": {
+        "rising": [
+            {
+                "query": "o que \u00e9 efici\u00eancia energ\u00e9tica e como ela pode ajudar a mitigar os impactos ambientais da tecnologia?",
+                "value": "Breakout",
+                "extracted_value": 122000,
+                "link": "https://trends.google.com/trends/explore?q=o+que+%C3%A9+efici%C3%AAncia+energ%C3%A9tica+e+como+ela+pode+ajudar+a+mitigar+os+impactos+ambientais+da+tecnologia?&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+%C3%A9+efici%C3%AAncia+energ%C3%A9tica+e+como+ela+pode+ajudar+a+mitigar+os+impactos+ambientais+da+tecnologia%3F&tz=180"
+            },
+            {
+                "query": "qual \u00e9 um problema ambiental significativo gerado pelo descarte inadequado de produtos eletr\u00f4nicos?",
+                "value": "Breakout",
+                "extracted_value": 93450,
+                "link": "https://trends.google.com/trends/explore?q=qual+%C3%A9+um+problema+ambiental+significativo+gerado+pelo+descarte+inadequado+de+produtos+eletr%C3%B4nicos?&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=qual+%C3%A9+um+problema+ambiental+significativo+gerado+pelo+descarte+inadequado+de+produtos+eletr%C3%B4nicos%3F&tz=180"
+            },
+            {
+                "query": "assim, comparando os valores dos combust\u00edveis acima apresentados, identifique qual combust\u00edvel apresenta maior valor de energia liberada.",
+                "value": "Breakout",
+                "extracted_value": 36250,
+                "link": "https://trends.google.com/trends/explore?q=assim,+comparando+os+valores+dos+combust%C3%ADveis+acima+apresentados,+identifique+qual+combust%C3%ADvel+apresenta+maior+valor+de+energia+liberada.&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=assim%2C+comparando+os+valores+dos+combust%C3%ADveis+acima+apresentados%2C+identifique+qual+combust%C3%ADvel+apresenta+maior+valor+de+energia+liberada.&tz=180"
+            },
+            {
+                "query": "qual \u00e9 um exemplo de como a tecnologia pode ajudar na escassez de \u00e1gua?",
+                "value": "Breakout",
+                "extracted_value": 28300,
+                "link": "https://trends.google.com/trends/explore?q=qual+%C3%A9+um+exemplo+de+como+a+tecnologia+pode+ajudar+na+escassez+de+%C3%A1gua?&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=qual+%C3%A9+um+exemplo+de+como+a+tecnologia+pode+ajudar+na+escassez+de+%C3%A1gua%3F&tz=180"
+            },
+            {
+                "query": "efici\u00eancia energ\u00e9tica na ind\u00fastria",
+                "value": "+200%",
+                "extracted_value": 200,
+                "link": "https://trends.google.com/trends/explore?q=efici%C3%AAncia+energ%C3%A9tica+na+ind%C3%BAstria&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=efici%C3%AAncia+energ%C3%A9tica+na+ind%C3%BAstria&tz=180"
+            },
+            {
+                "query": "conceito de efici\u00eancia energ\u00e9tica",
+                "value": "+50%",
+                "extracted_value": 50,
+                "link": "https://trends.google.com/trends/explore?q=conceito+de+efici%C3%AAncia+energ%C3%A9tica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=conceito+de+efici%C3%AAncia+energ%C3%A9tica&tz=180"
+            },
+            {
+                "query": "inmetro",
+                "value": "+50%",
+                "extracted_value": 50,
+                "link": "https://trends.google.com/trends/explore?q=inmetro&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=inmetro&tz=180"
+            }
+        ],
+        "top": [
+            {
+                "query": "eficiencia",
+                "value": "100",
+                "extracted_value": 100,
+                "link": "https://trends.google.com/trends/explore?q=eficiencia&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=eficiencia&tz=180"
+            },
+            {
+                "query": "eficiencia energ\u00e9tica",
+                "value": "100",
+                "extracted_value": 100,
+                "link": "https://trends.google.com/trends/explore?q=eficiencia+energ%C3%A9tica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=eficiencia+energ%C3%A9tica&tz=180"
+            },
+            {
+                "query": "eficiencia energetica",
+                "value": "72",
+                "extracted_value": 72,
+                "link": "https://trends.google.com/trends/explore?q=eficiencia+energetica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=eficiencia+energetica&tz=180"
+            },
+            {
+                "query": "programa de efici\u00eancia energ\u00e9tica",
+                "value": "51",
+                "extracted_value": 51,
+                "link": "https://trends.google.com/trends/explore?q=programa+de+efici%C3%AAncia+energ%C3%A9tica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=programa+de+efici%C3%AAncia+energ%C3%A9tica&tz=180"
+            },
+            {
+                "query": "conceito de efici\u00eancia energ\u00e9tica",
+                "value": "45",
+                "extracted_value": 45,
+                "link": "https://trends.google.com/trends/explore?q=conceito+de+efici%C3%AAncia+energ%C3%A9tica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=conceito+de+efici%C3%AAncia+energ%C3%A9tica&tz=180"
+            },
+            {
+                "query": "etiqueta de efici\u00eancia energ\u00e9tica",
+                "value": "40",
+                "extracted_value": 40,
+                "link": "https://trends.google.com/trends/explore?q=etiqueta+de+efici%C3%AAncia+energ%C3%A9tica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=etiqueta+de+efici%C3%AAncia+energ%C3%A9tica&tz=180"
+            },
+            {
+                "query": "procel",
+                "value": "39",
+                "extracted_value": 39,
+                "link": "https://trends.google.com/trends/explore?q=procel&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=procel&tz=180"
+            },
+            {
+                "query": "o que significa efici\u00eancia energ\u00e9tica",
+                "value": "38",
+                "extracted_value": 38,
+                "link": "https://trends.google.com/trends/explore?q=o+que+significa+efici%C3%AAncia+energ%C3%A9tica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+significa+efici%C3%AAncia+energ%C3%A9tica&tz=180"
+            },
+            {
+                "query": "selo de efici\u00eancia energ\u00e9tica",
+                "value": "37",
+                "extracted_value": 37,
+                "link": "https://trends.google.com/trends/explore?q=selo+de+efici%C3%AAncia+energ%C3%A9tica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=selo+de+efici%C3%AAncia+energ%C3%A9tica&tz=180"
+            },
+            {
+                "query": "matriz energ\u00e9tica",
+                "value": "32",
+                "extracted_value": 32,
+                "link": "https://trends.google.com/trends/explore?q=matriz+energ%C3%A9tica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=matriz+energ%C3%A9tica&tz=180"
+            },
+            {
+                "query": "efici\u00eancia energ\u00e9tica na ind\u00fastria",
+                "value": "26",
+                "extracted_value": 26,
+                "link": "https://trends.google.com/trends/explore?q=efici%C3%AAncia+energ%C3%A9tica+na+ind%C3%BAstria&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=efici%C3%AAncia+energ%C3%A9tica+na+ind%C3%BAstria&tz=180"
+            },
+            {
+                "query": "efici\u00eancia energ\u00e9tica geladeira",
+                "value": "25",
+                "extracted_value": 25,
+                "link": "https://trends.google.com/trends/explore?q=efici%C3%AAncia+energ%C3%A9tica+geladeira&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=efici%C3%AAncia+energ%C3%A9tica+geladeira&tz=180"
+            },
+            {
+                "query": "selo procel",
+                "value": "23",
+                "extracted_value": 23,
+                "link": "https://trends.google.com/trends/explore?q=selo+procel&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=selo+procel&tz=180"
+            },
+            {
+                "query": "inmetro",
+                "value": "22",
+                "extracted_value": 22,
+                "link": "https://trends.google.com/trends/explore?q=inmetro&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=inmetro&tz=180"
+            },
+            {
+                "query": "gest\u00e3o de energia e efici\u00eancia energ\u00e9tica",
+                "value": "22",
+                "extracted_value": 22,
+                "link": "https://trends.google.com/trends/explore?q=gest%C3%A3o+de+energia+e+efici%C3%AAncia+energ%C3%A9tica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=gest%C3%A3o+de+energia+e+efici%C3%AAncia+energ%C3%A9tica&tz=180"
+            },
+            {
+                "query": "energia renov\u00e1vel",
+                "value": "22",
+                "extracted_value": 22,
+                "link": "https://trends.google.com/trends/explore?q=energia+renov%C3%A1vel&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=energia+renov%C3%A1vel&tz=180"
+            },
+            {
+                "query": "o que \u00e9 eficiencia energetica",
+                "value": "18",
+                "extracted_value": 18,
+                "link": "https://trends.google.com/trends/explore?q=o+que+%C3%A9+eficiencia+energetica&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+%C3%A9+eficiencia+energetica&tz=180"
+            },
+            {
+                "query": "o que \u00e9 efici\u00eancia energ\u00e9tica e como ela pode ajudar a mitigar os impactos ambientais da tecnologia?",
+                "value": "16",
+                "extracted_value": 16,
+                "link": "https://trends.google.com/trends/explore?q=o+que+%C3%A9+efici%C3%AAncia+energ%C3%A9tica+e+como+ela+pode+ajudar+a+mitigar+os+impactos+ambientais+da+tecnologia?&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=o+que+%C3%A9+efici%C3%AAncia+energ%C3%A9tica+e+como+ela+pode+ajudar+a+mitigar+os+impactos+ambientais+da+tecnologia%3F&tz=180"
+            },
+            {
+                "query": "qual \u00e9 um problema ambiental significativo gerado pelo descarte inadequado de produtos eletr\u00f4nicos?",
+                "value": "13",
+                "extracted_value": 13,
+                "link": "https://trends.google.com/trends/explore?q=qual+%C3%A9+um+problema+ambiental+significativo+gerado+pelo+descarte+inadequado+de+produtos+eletr%C3%B4nicos?&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=qual+%C3%A9+um+problema+ambiental+significativo+gerado+pelo+descarte+inadequado+de+produtos+eletr%C3%B4nicos%3F&tz=180"
+            },
+            {
+                "query": "assim, comparando os valores dos combust\u00edveis acima apresentados, identifique qual combust\u00edvel apresenta maior valor de energia liberada.",
+                "value": "5",
+                "extracted_value": 5,
+                "link": "https://trends.google.com/trends/explore?q=assim,+comparando+os+valores+dos+combust%C3%ADveis+acima+apresentados,+identifique+qual+combust%C3%ADvel+apresenta+maior+valor+de+energia+liberada.&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=assim%2C+comparando+os+valores+dos+combust%C3%ADveis+acima+apresentados%2C+identifique+qual+combust%C3%ADvel+apresenta+maior+valor+de+energia+liberada.&tz=180"
+            },
+            {
+                "query": "qual \u00e9 um exemplo de como a tecnologia pode ajudar na escassez de \u00e1gua?",
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=qual+%C3%A9+um+exemplo+de+como+a+tecnologia+pode+ajudar+na+escassez+de+%C3%A1gua?&date=today+12-m&geo=BR",
+                "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=BR&q=qual+%C3%A9+um+exemplo+de+como+a+tecnologia+pode+ajudar+na+escassez+de+%C3%A1gua%3F&tz=180"
+            }
+        ]
+    }
+}
